@@ -56,3 +56,6 @@ print('Для числа', ent, 'предыдущее число:', ent-1)
 ent1 = int(input())
 ent2 = int(input())
 ent3 = int(input())
+ent4 = int(input())
+rez = (ent1+ent2+ent3+ent4)*3
+print(rez)
