@@ -52,3 +52,7 @@ ent = int(input())
 print('Следующее за числом', ent, 'число:', ent+1)
 print('Для числа', ent, 'предыдущее число:', ent-1)
 '''
+#2.4_10
+ent1 = int(input())
+ent2 = int(input())
+ent3 = int(input())
